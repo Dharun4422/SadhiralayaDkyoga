@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "title": "Classical",
+      "image": "./Classical/photos/1.jpg",
+      "description": "A beautiful classical dance pose."
+    },
+    {
+      "id": 2,
+      "title": "Classical",
+      "image": "./Classical/photos/2.jpg",
+      "description": "A relaxing yoga pose."
+    },
+    {
+      "id": 3,
+      "title": "Classical",
+      "image": "./Classical/photos/3.jpg",
+      "description": "A traditional Nataraja pose in Bharatanatyam."
+    },
+    {
+        "id": 4,
+        "title": "Classical",
+        "image": "./Classical/photos/4.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 5,
+        "title": "Classical",
+        "image": "./Classical/photos/5.jpg",
+        "description": "A relaxing yoga pose."
+      },
+      {
+        "id": 6,
+        "title": "Classical",
+        "image": "./Classical/photos/6.jpg",
+        "description": "A traditional Nataraja pose in Bharatanatyam."
+      },
+      {
+        "id": 7,
+        "title": "Classical",
+        "image": "./Classical/photos/7.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 8,
+        "title": "Classical",
+        "image": "./Classical/photos/8.jpg",
+        "description": "A relaxing yoga pose."
+      },
+      {
+        "id": 9,
+        "title": "Classical",
+        "image": "./Classical/photos/9.jpg",
+        "description": "A traditional Nataraja pose in Bharatanatyam."
+      },
+      {
+        "id": 10,
+        "title": "Classical",
+        "image": "./Classical/photos/10.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 11,
+        "title": "Classical",
+        "image": "./Classical/photos/11.jpg",
+        "description": "A relaxing yoga pose."
+      },
+      {
+        "id": 12,
+        "title": "Classical",
+        "image": "./Classical/photos/12.jpg",
+        "description": "A traditional Nataraja pose in Bharatanatyam."
+      },
+      {
+        "id": 13,
+        "title": "Classical",
+        "image": "./Classical/photos/13.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 14,
+        "title": "Classical",
+        "image": "./Classical/photos/14.jpg",
+        "description": "A relaxing yoga pose."
+      },
+      {
+        "id": 15,
+        "title": "Classical",
+        "image": "./Classical/photos/15.jpg",
+        "description": "A traditional Nataraja pose in Bharatanatyam."
+      },
+      {
+        "id": 16,
+        "title": "Classical",
+        "image": "./Classical/photos/16.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 17,
+        "title": "Classical",
+        "image": "./Classical/photos/17.jpg",
+        "description": "A relaxing yoga pose."
+      },
+      {
+        "id": 18,
+        "title": "Classical",
+        "image": "./Classical/photos/18.jpg",
+        "description": "A traditional Nataraja pose in Bharatanatyam."
+      },
+      {
+        "id": 19,
+        "title": "Classical",
+        "image": "./Classical/photos/19.jpg",
+        "description": "A beautiful classical dance pose."
+      },
+      {
+        "id": 20,
+        "title": "Classical",
+        "image": "./Classical/photos/20.jpg",
+        "description": "A relaxing yoga pose."
+      }
+  ]
